@@ -5,7 +5,7 @@ Thailand, June 2026 — edited entirely in **code**. There is no Premiere or Cap
 project here: every cut, title, whip-pan, and sound effect is a React component
 rendered to video with [Remotion](https://www.remotion.dev/).
 
-![Frames from the final render](analysis/qc6/full-grid.jpg)
+![Frames from the final render](analysis/qc6/hero-grid.jpg)
 
 ## Wait, edited in code?
 
@@ -61,7 +61,7 @@ chapter text slides *behind* a person — or an elephant — instead of just sit
 the render, frame-grabs around every suspicious cut, beat-sync measurements, and
 per-draft QC reports. It's all committed because it's half the fun of the project.
 
-![QC contact sheet](analysis/qc-final/grid.jpg)
+![QC contact sheet](analysis/qc-final/contact-sheet.jpg)
 
 ## What's in the repo
 
