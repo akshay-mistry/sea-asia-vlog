@@ -1,0 +1,58 @@
+{
+  "decoded_duration_sec": 189.521269841,
+  "container_duration_sec": 189.52127,
+  "sample_rate_hz": 22050,
+  "bpm": 132.0,
+  "tempo_model": "constant",
+  "beat_period_sec": 0.45454545454545453,
+  "first_downbeat_sec": 0.2482217343,
+  "meter": "4/4",
+  "complete_bars": 104,
+  "complete_beats": 416,
+  "musical_end_downbeat_sec": 189.33913082520908,
+  "trailing_tail_sec": 0.182139016060745,
+  "tempo_fit": {
+    "strong_attacks_used": 187,
+    "fitted_bpm": 132.0005929016,
+    "fitted_period_sec": 0.4545434129,
+    "fitted_downbeat_sec": 0.2482217343,
+    "residual_std_ms": 2.491
+  },
+  "loudness": {
+    "integrated_lufs": -7.4,
+    "loudness_range_lu": 4.2,
+    "true_peak_dbtp": 3.5
+  },
+  "recommended_edit": {
+    "omitted_source_bars": [
+      [
+        25,
+        40
+      ],
+      [
+        89,
+        96
+      ]
+    ],
+    "removed_duration_sec": 43.63636363636363,
+    "complete_bars": 80,
+    "musical_end_downbeat_sec": 145.70276718884543,
+    "file_end_sec": 145.8849062049062,
+    "phase_matched_splices": [
+      {
+        "musical_boundary_source_sec": 43.884585370663636,
+        "outgoing_cut_source_sec": 43.89293,
+        "incoming_cut_source_sec": 72.983839,
+        "shared_offset_after_downbeat_ms": 8.345
+      },
+      {
+        "musical_boundary_source_sec": 160.2482217343,
+        "outgoing_cut_source_sec": 160.263211,
+        "incoming_cut_source_sec": 174.808665,
+        "shared_offset_after_downbeat_ms": 14.989
+      }
+    ]
+  },
+  "energy_4bar_rms_dbfs_min": -13.173923963980009,
+  "energy_4bar_rms_dbfs_max": -5.696213072111952
+}

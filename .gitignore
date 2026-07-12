@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+
+# Source footage + music (multi-GB, lives outside git)
+assets/
+
+# Rendered videos
+out/
+
+# Reference vlogs used for style research
+vlog-samples/
+
+# Generated / large audio in public
+#   music edits are cut from assets/music, sfx come from scripts/make-sfx.py
+public/*.wav
+public/sfx/*.wav
+
+# Generated subject mattes (scripts/make-mattes.py)
+public/mattes/*.webm
+
+# Audio scratch files inside analysis (images/reports/scripts ARE committed)
+analysis/**/*.wav
+
+# Editor / agent scratch
+.cursor/

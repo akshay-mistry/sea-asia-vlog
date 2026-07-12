@@ -1,0 +1,35 @@
+{
+  "name": "sea-trip-vlog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Southeast Asia post-grad trip vlog built with Remotion",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Vlog out/vlog.mp4",
+    "render:preview": "remotion render Vlog out/preview.mp4 --scale=0.5 --crf=28",
+    "render:talk": "remotion render TalkToYou out/talk-to-you.mp4",
+    "render:talk:preview": "remotion render TalkToYou out/talk-to-you-preview.mp4 --scale=0.5 --crf=28",
+    "render:nfw": "remotion render NiceForWhat out/nice-for-what.mp4",
+    "render:nfw:preview": "remotion render NiceForWhat out/nice-for-what-preview.mp4 --scale=0.5 --crf=28",
+    "validate:talk": "npx tsx scripts/validate-talk-to-you.ts",
+    "export:talk": "npx tsx scripts/export-talk-to-you-json.ts",
+    "validate:nfw": "npx tsx scripts/validate-nice-for-what.ts",
+    "export:nfw": "npx tsx scripts/export-nice-for-what-json.ts",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.486",
+    "@remotion/google-fonts": "^4.0.486",
+    "@remotion/media-utils": "^4.0.486",
+    "@remotion/transitions": "^4.0.486",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.486"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.13",
+    "@types/web": "^0.0.290",
+    "prettier": "^3.8.2",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "bpm": 133.333,
+  "beatPeriodSec": 0.45,
+  "phaseSec": 0.105,
+  "durationSec": 147.777,
+  "musicFile": "music-edit.wav",
+  "spliceNote": "Original track cut at beat 241 (108.555s) resuming from original 180.555s (beat 401). Grid is continuous: beat n lands at 0.105 + n*0.45 for the whole edit.",
+  "landmarks": {
+    "introEnd": 7.4,
+    "drop1": 7.755,
+    "drop2": 22.155,
+    "drop3": 36.555,
+    "phraseBoundaryBeats": [17, 49, 81, 113, 145, 177, 209, 241, 273, 305],
+    "fillsSec": [51.3, 58.5, 65.7, 80.1, 88.2, 96.3, 104.4, 112.2, 122.1, 128.4, 136.5, 142.2],
+    "finalSlam": 144.1,
+    "hardEnd": 147.7
+  }
+}

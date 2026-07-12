@@ -1,0 +1,34 @@
+{
+  "bpm": 132,
+  "beatPeriodSec": 0.4545454545,
+  "phaseSec": 0.2482217343,
+  "durationSec": 145.884921,
+  "musicFile": "talk-to-you-edit.wav",
+  "spliceNote": "80-bar edit: source bars 1-24, 41-88, and 97-104. Phrase-matched physical joins are 43.892930→72.983839 and 160.263211→174.808665; both preserve the 132 BPM grid.",
+  "landmarks": {
+    "titleBeat": 24,
+    "titleSec": 11.157313,
+    "instrumentalPhraseBeat": 32,
+    "vocalEntryBeat": 64,
+    "breakdownBeat": 96,
+    "chorusBeat": 128,
+    "secondDropBeat": 224,
+    "instrumentalOutroBeat": 288,
+    "outroBeat": 304,
+    "endCardBeat": 312,
+    "finalBeat": 320,
+    "phraseBoundaryBeats": [
+      0,
+      32,
+      64,
+      96,
+      128,
+      160,
+      192,
+      224,
+      256,
+      288,
+      320
+    ]
+  }
+}

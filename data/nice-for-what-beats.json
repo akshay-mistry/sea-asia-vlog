@@ -1,0 +1,25 @@
+{
+  "bpm": 93.5,
+  "beatPeriodSec": 0.6417112299,
+  "phaseSec": 0.128,
+  "durationSec": 158.831,
+  "musicFile": "nice-for-what-edit.wav",
+  "spliceNote": "Bar-aligned edit of the 262s source: bars 0-3 (Lauryn intro), 10-29 (build + drop 1 + first body), 34-71.8 (pre-drop-2 breath, drop 2, climax, decay tail). Physical joins at source 10.395->25.796 and 77.133->87.401; kick onsets verified within 17ms of the design grid. Fade out 155.3-158.8.",
+  "landmarks": {
+    "buildBeat": 16,
+    "titleBeat": 32,
+    "titleSec": 20.663,
+    "kickOutBeat": 64,
+    "kickInBeat": 76,
+    "quietBreathBeat": 96,
+    "drop2Beat": 112,
+    "mediumBeat": 144,
+    "strongBeat": 176,
+    "climaxBeat": 192,
+    "dropoutBarBeat": 220,
+    "finalStrongBeat": 224,
+    "endCardBeat": 240,
+    "endCardSec": 154.139,
+    "phraseBoundaryBeats": [0, 16, 32, 48, 64, 80, 96, 112, 128, 144, 160, 176, 192, 208, 224, 240]
+  }
+}
