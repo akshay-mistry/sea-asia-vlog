@@ -5,13 +5,7 @@ Thailand, June 2026 — edited entirely in **code**. There is no Premiere or Cap
 project here: every cut, title, whip-pan, and sound effect is a React component
 rendered to video with [Remotion](https://www.remotion.dev/).
 
-<div align="center">
-
-### [Watch the final cut on YouTube](https://youtu.be/eyZ28sKTlaA)
-
-[![Watch the vlog](analysis/readme/watch-cover.jpg)](https://youtu.be/eyZ28sKTlaA)
-
-</div>
+#### [Watch the final cut](https://youtu.be/eyZ28sKTlaA)
 
 ![Frames from the final render](analysis/qc6/hero-grid.jpg)
 
